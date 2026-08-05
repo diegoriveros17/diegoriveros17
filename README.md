@@ -17,11 +17,13 @@
 const developerJunior = {
   nombre: "Diego Fernando",
   apellido: "Riveros",
-  rol: "Desarrollador de Software Multiplataforma",
+  profesion: "Licenciado en Tecnologías de la Información y Comunicación",
 };
 ```
 
-- **Desarrollador de Software Multiplataforma** — Web, Mobile
+<!-- - **Desarrollador de Software Multiplataforma** — Web, Mobile -->
+
+- Mi intereses en tecnología es abarcativo, me interesa desde el desarrollo de Fullstack Web y Mobile, hasta lo relacionado a las telecomunicaciones y las gestión de redes.
 - 🌱 Capacitación constante en **Tecnología**
 
 <br>
