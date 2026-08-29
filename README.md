@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hola, soy <a href="https://github.com/JavierNicolasMartinez">Diego Fernando Riveros. Lic. en Tecnologías de la Información y Comunicación (TIC) </a>
+  Hola, soy <a href="https://github.com/diegoriveros17">Diego Fernando Riveros. Lic. en Tecnologías de la Información y Comunicación (TIC) </a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
@@ -23,8 +23,8 @@ const developerJunior = {
 
 <!-- - **Desarrollador de Software Multiplataforma** — Web, Mobile -->
 
-- Mi intereses en tecnología es abarcativo, me interesa desde el desarrollo de Fullstack Web y Mobile, hasta lo relacionado a las telecomunicaciones y las gestión de redes.
-- 🌱 Capacitación constante en **Tecnología**
+- Mi intereses en tecnología no solo se limita al desarrollo Fullstack Web y Mobile, tambiñen me gusta lo relacionado a las telecomunicaciones y las gestión de redes.
+- 🌱 Capacitación continúa en **Tecnología**
 
 <br>
 
@@ -35,7 +35,7 @@ const developerJunior = {
 <p align="center">
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"></a>
   <!-- <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"></a> -->
-  <!-- <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"></a> -->
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"></a>
   <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
@@ -58,7 +58,7 @@ const developerJunior = {
 ### 🗄️ Bases de Datos & Servidores
 
 <p align="center">
-  <!-- <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a> -->
+  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
   <!-- <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a> -->
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
   <a href="#"><img alt="Phpmyadmin" src="https://img.shields.io/badge/-Phpmyadmin-F89C0E?style=for-the-badge&logo=Phpmyadmin&logoColor=000"></a>
@@ -91,10 +91,10 @@ const developerJunior = {
 ## 📬 Contacto
 
 <p align="center">
-  <a href="https://github.com/diegoriveros17"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/diego-rvs17"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/diego.rvs17"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.facebook.com/diegof.rvs17"><img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://github.com/diegoriveros17" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/diego-rvs17" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/diego.rvs17" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.facebook.com/diegof.rvs17" target="_blank"><img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="mailto:diegoriveros1991@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 </p>
