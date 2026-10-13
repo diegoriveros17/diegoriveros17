@@ -1,4 +1,4 @@
-<h1 align="center">
+<!-- <h1 align="center">
   Hola, soy <a href="https://github.com/diegoriveros17">Diego Fernando Riveros. Lic. en Tecnologías de la Información y Comunicación (TIC) </a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
@@ -6,7 +6,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Developer+Junior;Aficionado+a+las+Tecnologias++y;las+telecomunicaciones" alt="Typing SVG" /></a>
 
-<br>
+<br> -->
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Sobre mí
 
@@ -16,14 +16,14 @@
 const developerJunior = {
   nombre: "Diego Fernando",
   apellido: "Riveros",
-  profesion: "Licenciado en Tecnologías de la Información y Comunicación",
+  ocupacion: "Estudiante Tec. Sup. Desarrollo de Software multiplataforma",
 };
 ```
 
 <!-- - **Desarrollador de Software Multiplataforma** — Web, Mobile -->
 
-- Mi intereses en tecnología no solo se limita al desarrollo Fullstack Web y Mobile, tambiñen me gusta lo relacionado a las telecomunicaciones y las gestión de redes.
-- 🌱 Capacitación continúa en **Tecnología**
+- Mi intereses en tecnología no solo se limita al desarrollo, tambien me gusta lo relacionado a las telecomunicaciones y las gestión de redes.
+<!-- - 🌱 Capacitación continúa en **Tecnología** -->
 
 <br>
 
@@ -57,7 +57,7 @@ const developerJunior = {
 ### 🗄️ Bases de Datos & Servidores
 
 <p align="center">
-  <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+  <!-- <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a> -->
   <!-- <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a> -->
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
   <a href="#"><img alt="Phpmyadmin" src="https://img.shields.io/badge/-Phpmyadmin-F89C0E?style=for-the-badge&logo=Phpmyadmin&logoColor=000"></a>
